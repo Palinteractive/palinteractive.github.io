@@ -30,3 +30,15 @@ Replace images while keeping the same filenames, or edit the HTML project pages 
 ## Notes
 
 The Design Technology page currently uses diagrammatic project descriptions. It should be expanded later with final screenshots of the Generative Test-Fit Tool, Climate Analysis Tool, and Rhino → Revit Bridge.
+
+## v3 fixes
+- Corrected the Dome Fest West video orientation.
+- Corrected the StoryTeller Machine dome-sequence still orientations.
+- Archive cards now open full-size images in an accessible lightbox viewer.
+
+
+## v4 refinements
+- Corrected StoryTeller Machine dome video and still orientations.
+- Archive cards open full size in a lightbox.
+- Removed dash punctuation and hyphenated display copy throughout the site.
+- Replaced Behance links with Instagram.
